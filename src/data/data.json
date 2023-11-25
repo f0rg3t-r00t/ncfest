@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Dukagjini Resident",
+      "latitude": 42.653640,
+      "longitude": 21.146965,
+      "images": "https://prorealestate.s3.eu-central-1.amazonaws.com/media/2023-03/1bf4929a-b666-409c-8616-f1a6ebc3bcdb-original.png",
+      "desc": "Lorem Ipsumaj",
+      "hasParking": "yes"
+    },
+    {
+      "id": 2,
+      "name": "Dukagjini Resident",
+      "latitude": 42.653640,
+      "longitude": 21.146965,
+      "images": "https://example.com/image1.jpg",
+      "desc": "Lorem Ipsumaj"
+    },
+    {
+        "id": 4,
+        "name": "Dukagjini Resident",
+        "latitude": 42.653640,
+        "longitude": 21.146965,
+        "images": "https://example.com/image1.jpg",
+        "desc": "Lorem Ipsumaj"
+    }
+]
